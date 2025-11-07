@@ -1,5 +1,5 @@
-### Praxismodul M29 IBI HU
+### Praxismodul M30 IBI HU
 
-Übung im Rahmen des Moduls Digital Humanities / Digital Science des [Weiterbildende Masterstudiengang Bibliotheks- und Informationswissenschaft im Fernstudium am IBI der HU Berlin](https://moodle.hu-berlin.de/enrol/index.php?id=128871).
+Übung im Rahmen des Moduls Digital Humanities / Digital Science des [Weiterbildende Masterstudiengang Bibliotheks- und Informationswissenschaft im Fernstudium am IBI der HU Berlin](https://www.ibi.hu-berlin.de/de/studium/studiengaenge/fernstudium/m30/m30_ws25_26).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/subugoe/ibi_austen_29/HEAD?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/subugoe/ibi_austen_30/HEAD?urlpath=rstudio)
