@@ -1,5 +1,6 @@
-## R 4.6.2 + RStudio Server + tidyverse + Pandoc + Quarto + TeX Live (TinyTeX-style)
-FROM rocker/verse:4.6.2
+## R 4.6.1 + RStudio Server + tidyverse + Pandoc + Quarto + TeX Live (TinyTeX-style)
+## Check that a tag exists before bumping: https://hub.docker.com/r/rocker/verse/tags
+FROM rocker/verse:4.6.1
 
 ## Binder runs the image as a non-root user with UID 1000 (= "rstudio" in rocker images)
 ENV NB_USER=rstudio
