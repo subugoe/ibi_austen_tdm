@@ -1,7 +1,10 @@
 ---
 title: "R Notebook Analyse Worthäufigkeiten in Jane Austen Romanen"
 lang: de
-format: html
+format:
+  html: default
+  typst: default
+  docx: default
 execute:
   message: false
   warning: false

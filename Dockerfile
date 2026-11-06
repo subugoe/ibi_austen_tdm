@@ -20,9 +20,6 @@ RUN apt-get update \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/* /tmp/apt.txt
 
-## LaTeX packages for German PDF output (baked into the image, not downloaded per session)
-RUN tlmgr install babel-german hyphen-german
-
 USER ${NB_USER}
 WORKDIR /home/${NB_USER}
 
